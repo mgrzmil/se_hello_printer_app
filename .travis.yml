@@ -13,7 +13,7 @@ script:
   - make docker_build
   - make docker_push
 
-  deploy:
-    provider: heroku
-    app: hello-world-printer
-    api_key: ${HEROKU_API_KEY}
+deploy:
+  provider: heroku
+  app: hello-world-printer
+  api_key: ${HEROKU_API_KEY}
