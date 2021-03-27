@@ -1,5 +1,10 @@
 # Simple Flask App
 
+[![Build Status](https://travis-ci.com/mgrzmil/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/mgrzmil/se_hello_printer_app)
+
+[![Build Status](https://app.statuscake.com/button/index.php?Track=5902164&Days=1&Design=2)](https://app.statuscake.com/button/index.php?Track=5902164&Days=1&Design=2)
+
+
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
@@ -132,3 +137,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ yum install -y docker-ce
   $ systemctl start docker
   ```
+
+```#Dodanie monitorowania
+    link: https://app.statuscake.com/button/index.php?Track=5902164&Days=1&Design=2
+```
