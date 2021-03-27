@@ -15,5 +15,5 @@ script:
 
 deploy:
   provider: heroku
-  app: hello-world-printer
+  app: fathomless-fjord-81476
   api_key: ${HEROKU_API_KEY}
